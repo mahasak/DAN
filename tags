@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/23d50b5/
+$model;format="camel"$ form	.g8/form/app/views/$model__camel$/form.scala.html	/^<h1>$model;format="camel"$ form<\/h1>$/;"	h
+0	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+0	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:languages
+1	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+1l9Y4cxc166T6a4wU830YU3kGZu	.idea/workspace.xml	/^  <component name="ProjectId" id="1l9Y4cxc166T6a4wU830YU3kGZu" \/>$/;"	i
+2	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+3	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+4	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+5	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+539891f7-8194-4cbe-89ff-a344fa6416fc	.idea/workspace.xml	/^      <changelist id="539891f7-8194-4cbe-89ff-a344fa6416fc" name="Default Changelist" comment=""/;"	i
+539891f7-8194-4cbe-89ff-a344fa6416fc	.idea/workspace.xml	/^    <list default="true" id="539891f7-8194-4cbe-89ff-a344fa6416fc" name="Default Changelist" com/;"	i
+6	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s	array:argv
+Assets	target/scala-2.13/routes/main/controllers/routes.java	/^    public static final controllers.javascript.ReverseAssets Assets = new controllers.javascript/;"	f	class:routes.javascript
+Assets	target/scala-2.13/routes/main/controllers/routes.java	/^  public static final controllers.ReverseAssets Assets = new controllers.ReverseAssets(RoutesPre/;"	f	class:routes
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+HomeController	target/scala-2.13/routes/main/controllers/routes.java	/^    public static final controllers.javascript.ReverseHomeController HomeController = new contro/;"	f	class:routes.javascript
+HomeController	target/scala-2.13/routes/main/controllers/routes.java	/^  public static final controllers.ReverseHomeController HomeController = new controllers.Reverse/;"	f	class:routes
+Welcome to Play!	app/views/index.scala.html	/^  <h1>Welcome to Play!<\/h1>$/;"	h
+argv	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	a
+bspVersion	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s
+controllers	target/scala-2.13/routes/main/controllers/routes.java	/^package controllers;$/;"	p
+description	.g8/form/default.properties	/^description = Generates a Controller with form handling$/;"	k
+javascript	target/scala-2.13/routes/main/controllers/routes.java	/^  public static class javascript {$/;"	c	class:routes
+languages	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	a
+model	.g8/form/default.properties	/^model = user$/;"	k
+name	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s
+routes	target/scala-2.13/routes/main/controllers/routes.java	/^public class routes {$/;"	c
+sbt.version	project/build.properties	/^sbt.version=1.4.4/;"	k
+version	.bsp/sbt.json	/^{"name":"sbt","version":"1.4.4","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/Library/;"	s
